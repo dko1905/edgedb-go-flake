@@ -23,6 +23,6 @@ jobs:
       - uses: "DeterminateSystems/flakehub-push@main"
         with:
           visibility: "public"
-          name: "dko1905/edgedb-go-flake"
+          name: "dko1905/edgedb-go"
           tag: "${{ inputs.tag }}"
           include-output-paths: true
