@@ -1,4 +1,5 @@
 # Edgedb-go flake
+[Documentation](https://pkg.go.dev/github.com/edgedb/edgedb-go)
 
 ## Usage as a flake
 
