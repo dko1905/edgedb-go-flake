@@ -25,7 +25,7 @@
         {
           go-edgeql = pkgs.buildGoModule rec {
             pname = "go-edgeql";
-            version = "0.17.0";
+            version = "0.17.2";
 
             src = pkgs.fetchFromGitHub {
               owner = "edgedb";
@@ -47,7 +47,7 @@
               homepage = "https://github.com/edgedb/edgedb-go";
               description = "The official Go client library for EdgeDB";
               maintainers = with maintainers; [];
-              license = licenses.apache;
+              license = licenses.asl20;
               mainProgram = "edgeql-go";
             };
           };
