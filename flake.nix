@@ -31,7 +31,7 @@
               owner = "edgedb";
               repo = "edgedb-go";
               rev = "v${version}";
-              sha256 = "sha256-NfC1ufHZn0sTFYj4+5t5rY6XPuKtBTmIH6nTBy7Sg5s=";
+              sha256 = "sha256-CapPMz9qRp1UMLCZTJ4oizCXjS1E0KrhA/vkwT3VkDk=";
             };
 
             # proxyVendor = true; # darwin/linux hash mismatch
